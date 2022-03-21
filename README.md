@@ -1,4 +1,4 @@
-# testinggameapp
+# flutter app showing commodity price from a csv sheet, with widget/unit/testing
 
 A new Flutter project.
 
